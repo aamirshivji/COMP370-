@@ -15,17 +15,14 @@ You will conduct this analysis and submit a report discussing your findings.
 
 ### 2. Data collection (Set up News API’s one for each of us)
 
--Searching for Movies released between August 1st and October 31st (We may have to streamline this a little. I am going to test out different time ranges. The shorter the time line, the easier our job will be)
+Wrote **newsapi.py** that collects articles using snowball sampling. A relevant word is selected and the script queries NewsAPI to fetch a predefined number of articles. As articles are collected, the script analyzes their content (e.g., titles, descriptions) to extract new keywords related to the seed topics.
+These extracted keywords are added to the set of keywords for future iterations.
+The process repeats for a specified number of iterations (max_iterations) to progressively expand the search and capture a broader set of relevant articles.
 
--Limit ourselves to English articles only
--Use unbiased keywords for the search such as Movie, Director names, Actors, box office etc. 
+-The script uses pagination to fetch multiple pages of results (up to 100 articles per page). If the desired number of articles for a keyword is reached or no more results are available, it stops fetching for that keyword (Pruning). 
 
--Seeing as though we will be making comparisons with other movies, we should have some of these in mind: Smile 2, Joker 2, Anora, Alien Romulus etc. However, these are not keywords that 
-will be included in the data collection 
-
-*Collect articles on all selected movies, but ensure the specific movie has adequate representation. Aim for a balanced collection across all movies but with enough articles focused on your main movie to allow for deeper analysis.*
-
--save the 500+ articles to a csv or json. Fields may include: Article title, description, date, movie title referenced, maybe the most important paragraph from the article, source etc. 
+The predefined Keywords I have used are "The Substance" and "Movie", acknowledging the very obvious bias, but taking it into consideration as it impacts the results we obtain. 
+The following iterations extracted words like "Horror" and "Director" tto fetch more articles. In the end, we have ended up with 300-400 articles that can now be annotated. 
 
 #### AAMIR'S DATA COLLECTION
 -I retrieved my api key and it is **fef5181e75ea4ee7a86fdb055f3f300b**
