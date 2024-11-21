@@ -6,6 +6,8 @@
 
 **Definition:** Articles providing details on where and how a movie can be watched, including streaming platforms, release dates, and subscription requirements.
 
+- Articles that announce streaming release dates while analyzing their timing and potential impact on audience engagement. These pieces often explore market positioning and seasonal relevance.
+
 **Sample Article:**
 "How To Watch The Substance At Home" explains that the movie is available on MUBI, a subscription-based platform, after its theatrical release.
 This would fit alongside other categories such as Production Updates, Reviews and Critiques, or Marketing Campaigns.
@@ -26,15 +28,18 @@ The film will explore the universe of Cronenberg's 1986 classic.
 Potential themes include body horror and the ethics of scientific discovery.
 This would pair well alongside other categories like "Production Updates" or "Cultural Impact."
 
-### 3. Reviews and Cultural Analysis
+### 3. Reviews, critiques and Cultural Analysis
 
-**Definition:** Articles that explore the themes, style, and cultural impact of a movie. These reviews often provide critiques, highlight intertextual references, and analyze how the movie fits into or subverts existing genres.
+**Definition:** Articles that explore the themes, narrative, style, and cultural impact of a movie. These reviews often provide critiques, highlight intertextual references, and analyze how the movie fits into or subverts existing genres. Often includes personal opinions or professional evaluations of the movie’s quality and artistic choices.
 
 **Key Characteristics:**
-In-depth analysis of a movie's narrative, style, and themes.
-Comparisons to other works (movies, literature, cultural artifacts).
-Opinions on the movie's potential legacy or impact.
-Spoiler-filled discussions of key scenes or motifs.
+- In-depth analysis of a movie's narrative, style, and themes.
+- Comparisons to other works (movies, literature, cultural artifacts).
+- Opinions on the movie's potential legacy or impact.
+- Spoiler-filled discussions of key scenes or motifs.
+- Offers a detailed analysis of a film’s merits and shortcomings.
+- Discusses thematic elements, directorial style, and the performances of actors.
+- Often expresses subjective opinions, providing ratings or rankings.
 
 **Example from Article:**
 The Substance is described as a blend of body horror and satire, with explicit references to Carrie, The Fly, Citizen Kane, and The Picture of Dorian Gray.
@@ -107,16 +112,30 @@ Provides release dates and streaming platform details.
 Definition: Articles that analyze nominations, wins, and the potential impact of film awards on industry recognition and the Oscars race. These pieces often highlight frontrunners, surprises, and how awards influence the visibility of lesser-known films.
 
 **Key Characteristics:**
-Discusses nominations or wins from major film awards (e.g., Gothams, Oscars, Cannes).
-Analyzes how these awards affect the larger awards race or industry perception.
-Highlights films or creators gaining recognition through nominations.
-Mentions industry trends or voting influences.
+- Discusses nominations or wins from major film awards (e.g., Gothams, Oscars, Cannes).
+- Analyzes how these awards affect the larger awards race or industry perception.
+- Highlights films or creators gaining recognition through nominations.
+- Mentions industry trends or voting influences.
 
 **Example from Article:**
 Highlights Anora as a frontrunner in the Oscar race after its four Gotham nominations.
 Discusses the strategic importance of Gotham nominations for smaller films like Babygirl in gaining visibility.
 Explores how critics and jury-based awards influence Oscar voting trends.
 
+### 10. Celebrity Events and Red Carpet Coverage
+
+**Definition:** Articles highlighting celebrity appearances at premieres, award shows, or promotional events. They often include details about outfits, event attendees, and connections to the film or show being promoted.
+
+**Key Characteristics:**
+Describes celebrity outfits and event details.
+Mentions the film or project being promoted and its significance.
+Highlights key attendees or collaborators (e.g., directors, co-stars).
+Includes photos or links to additional media coverage.
+Example from Article:
+
+Demi Moore attended the Paris premiere of The Substance, wearing a Chanel floral dress paired with a navy coat.
+Event details include the presence of director Coralie Fargeat and Thierry Fremaux.
+Mentions the film’s plot and availability on MUBI.
 
 ## Unrelated categories
 There are rogue articles in there that do not talk about movies at all. *"Decision Room 2024: Team Moo Deng or Team Haggis?"* is an example. I have labelled these as unrelated for now. 
