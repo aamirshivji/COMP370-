@@ -137,6 +137,10 @@ Demi Moore attended the Paris premiere of The Substance, wearing a Chanel floral
 Event details include the presence of director Coralie Fargeat and Thierry Fremaux.
 Mentions the film’s plot and availability on MUBI.
 
+### 11. Movie rankings and lists
+
+Could possibly be combined with reviews, as these inherently are a review. I have made it a seperate category for now as i feel like it is worth mentioning in the final report
+
 ## Unrelated categories
 There are rogue articles in there that do not talk about movies at all. *"Decision Room 2024: Team Moo Deng or Team Haggis?"* is an example. I have labelled these as unrelated for now. 
 
