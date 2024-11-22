@@ -28,7 +28,7 @@ The film will explore the universe of Cronenberg's 1986 classic.
 Potential themes include body horror and the ethics of scientific discovery.
 This would pair well alongside other categories like "Production Updates" or "Cultural Impact."
 
-### 3. Reviews, critiques and Cultural Analysis
+### 3. Reviews (goes hand-in-hand with plot)
 
 **Definition:** Articles that explore the themes, narrative, style, and cultural impact of a movie. These reviews often provide critiques, highlight intertextual references, and analyze how the movie fits into or subverts existing genres. Often includes personal opinions or professional evaluations of the movie’s quality and artistic choices.
 This also includes critical acclaim which are Articles that showcase praise or acknowledgment of a movie by notable individuals or institutions in the entertainment industry(e.g Guillermo del Toro praised The Substance for its exploration of themes like "the horror of losing oneself" and "the betrayal of the flesh.")
@@ -46,7 +46,7 @@ This also includes critical acclaim which are Articles that showcase praise or a
 The Substance is described as a blend of body horror and satire, with explicit references to Carrie, The Fly, Citizen Kane, and The Picture of Dorian Gray.
 The movie’s commentary on Hollywood’s obsession with youth and beauty is likened to cultural phenomena such as Ozempic and societal norms around aging.
 
-### 4. Behind The scenes and Actor's Insights
+### 4. Behind The scenes and Actor's insights (Production)
 
 **Definition:** Articles that explore behind-the-scenes elements of a movie, often through the perspective of actors or filmmakers. They might include photos, anecdotes, or insights into character portrayals and production details.
 
@@ -71,7 +71,7 @@ Discusses the actor’s growth, versatility, and influence within the industry.
 May include cultural commentary or meta-analysis of their work.
 
 
-### 6. Awards Buzz and Industry recognition
+### 6. Industry recognition
 
 Definition: Articles that analyze nominations, wins, and the potential impact of film awards on industry recognition and the Oscars race. These pieces often highlight frontrunners, surprises, and how awards influence the visibility of lesser-known films.
 
